@@ -6,9 +6,7 @@ A micro frontend for browsing restaurants.
 
 # Getting started
 
-1. Clone the repo
-2. `yarn install`
-3. `yarn start`
+[TBD]
 
 You'll also need to run the [`content`](https://github.com/micro-frontends-demo/content) server.
 
@@ -21,4 +19,4 @@ test it with the rest of the application. So you should also run:
 
 # Run the tests
 
-- `yarn test`
+[TBD]
